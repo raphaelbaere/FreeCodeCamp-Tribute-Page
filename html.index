@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+      <main id="main">
+<head>
+  <title id="title">Itachi Uchiha</title>
+  </head>  <body>
+    <div>
+    <h1 class="first-text">Itachi Uchiha</h1>
+    <p class=>A man, a brother, a savior.</p>
+       <figure id="img-div">
+      <img id="image" src="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e5/Itachi_Uchiha.jpg/200px-Itachi_Uchiha.jpg" alt="A image of Itachi Uchiha"</img>
+         <p2 id="img-caption"> Itachi, while he was invading Konoha Village, back in the days.</p2>
+    </figure>
+      <h3> Here's an introduction about who Itachi Uchiha was.</h3>
+      <p id="tribute-info" class="tribute">
+          Itachi Uchiha is a fictional character in the anime and manga series Naruto created by Masashi Kishimoto. In the series, Itachi is introduced as a prodigy of the Uchiha Clan. His childhood and pre-adolescence was marked by a period of constant conflict between his Uchiha clan and the Leaf's Village. At a certain point, Itachi finds himself at a crossroads: he must decide between his family, his clan and the Leaf's Village. In the story, Itachi's clan was preparing a civil war to seize power from the Leaf's Village, which would result in the death of both sides. Knowing this, Itachi decides to murder his entire clan in order to avoid war, leaving only his younger brother, Sasuke, alive. After the act of extermination, Itachi flees the Village and decides to join the criminal organization called Akatsuki, to act as an undercover spy to obtain information about the organization for leaf's Village.
+      </p>        
+<p class="tribute">But all this history remains hidden for the most part of the series, which introduces us to Itachi being a villain for the most part. Only close to the end of Naruto Shippuden we get to know this side of the story.
+        </p>
+
+<p class="tribute">His death is at the hands of the very brother he had spared his life and protected all his life.
+      </p>
+<p class="tribute">Later, Itachi is resurrected through a Jutsu in the Fourth Great Ninja War and manages to break out of the Jutsu's dominator's control and break it, acting as a key character to victory in the war.
+      </p>
+      <p class="hiruzensay"><em>"He has the mentality of a great Hokage, even being only a kid"</em>
+      </p>
+      <p class="hiruzensay"> -Hiruzen Sarutobi</p>
+      <h4> If you want to learn more about Itachi Uchiha's life and Naruto, visit his <a href="https://pt.wikipedia.org/wiki/Itachi_Uchiha" target="_blank" id="tribute-link">Wikipedia page</a>
+    </div>
+   
+   
+    </body>
+    </main>
